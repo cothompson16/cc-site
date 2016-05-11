@@ -1,6 +1,55 @@
 <!DOCTYPE html>
 <html lang="en"><head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8"><style type="text/css">.gm-style .gm-style-mtc label,.gm-style .gm-style-mtc div{font-weight:400}</style><style type="text/css">.gm-style-pbc{transition:opacity ease-in-out;background-color:black;text-align:center}.gm-style-pbt{font-size:22px;color:white;font-family:Roboto,Arial,sans-serif;position:relative;margin:0;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}</style><link href="Beatrix%20::%20Homepage_files/css_002.css" rel="stylesheet" type="text/css"><style type="text/css">.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{font-size:10px}</style><style type="text/css">@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}</style><style type="text/css">.gm-style{font-family:Roboto,Arial,sans-serif;font-size:11px;font-weight:400;text-decoration:none}.gm-style img{max-width:none}</style>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+.gm-style .gm-style-mtc label,.gm-style .gm-style-mtc div{
+font-weight:400
+}</style>
+<style type="text/css">
+.gm-style-pbc{
+transition:opacity ease-in-out;
+background-color:black;
+text-align:center
+}
+.gm-style-pbt{
+font-size:22px;
+color:white;
+font-family:Roboto,Arial,sans-serif;
+position:relative;
+margin:0;
+top:50%;
+-webkit-transform:translateY(-50%);
+-ms-transform:translateY(-50%);
+transform:translateY(-50%)
+}
+</style>
+<link href="css/css_002.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{
+font-size:10px
+}
+</style>
+<style type="text/css">
+@media print {
+.gm-style .gmnoprint, .gmnoprint { 
+display:none  
+}
+}@media screen {  
+.gm-style .gmnoscreen, .gmnoscreen {   
+display:none  
+}
+}</style>
+<style type="text/css">
+.gm-style{
+font-family:Roboto,Arial,sans-serif;
+font-size:11px;
+font-weight:400;
+text-decoration:none
+}
+.gm-style img{
+max-width:none
+}
+</style>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,34 +60,34 @@
     <title>Celtic Chocolates</title>
 
     <!-- CSS Global -->
-    <link href="Beatrix%20::%20Homepage_files/styles.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
 
     <!-- CSS Plugins -->
-    <link href="Beatrix%20::%20Homepage_files/font-awesome.css" rel="stylesheet">
-    <link href="Beatrix%20::%20Homepage_files/animate.css" rel="stylesheet">
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
     <!-- Google Fonts -->
-    <link href="Beatrix%20::%20Homepage_files/css_003.css" rel="stylesheet" type="text/css">
-    <link href="Beatrix%20::%20Homepage_files/css.css" rel="stylesheet" type="text/css">
+    <link href="css/css_003.css" rel="stylesheet" type="text/css">
+    <link href="css/css.css" rel="stylesheet" type="text/css">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-  <script style="" src="Beatrix%20::%20Homepage_files/oQz0WbDPyw_wRkgCfvZ0bXMWCpSp5MyiCywqRwehGSs.js" charset="UTF-8" type="text/javascript"></script><style type="text/css">
+  <script style="" src="js/oQz0WbDPyw_wRkgCfvZ0bXMWCpSp5MyiCywqRwehGSs.js" charset="UTF-8" type="text/javascript"></script><style type="text/css">
 
 .recaptcha_is_showing_audio .recaptcha_only_if_image,.recaptcha_isnot_showing_audio .recaptcha_only_if_audio,.recaptcha_had_incorrect_sol .recaptcha_only_if_no_incorrect_sol,.recaptcha_nothad_incorrect_sol .recaptcha_only_if_incorrect_sol{display:none !important}</style>
-<script src="Beatrix%20::%20Homepage_files/reload" type="text/javascript"></script>
-<script src="Beatrix%20::%20Homepage_files/common.js" charset="UTF-8" type="text/javascript"></script>
-<script src="Beatrix%20::%20Homepage_files/map.js" charset="UTF-8" type="text/javascript"></script>
-<script src="Beatrix%20::%20Homepage_files/util.js" charset="UTF-8" type="text/javascript"></script>
-<script src="Beatrix%20::%20Homepage_files/marker.js" charset="UTF-8" type="text/javascript"></script>
-<script src="Beatrix%20::%20Homepage_files/onion.js" charset="UTF-8" type="text/javascript"></script>
-<script src="Beatrix%20::%20Homepage_files/ViewportInfoService.GetViewportInfo" charset="UTF-8" type="text/javascript"></script>
-<script src="Beatrix%20::%20Homepage_files/stats.js" charset="UTF-8" type="text/javascript"></script>
-<script src="Beatrix%20::%20Homepage_files/controls.js" charset="UTF-8" type="text/javascript"></script>
+<script src="js/reload" type="text/javascript"></script>
+<script src="js/common.js" charset="UTF-8" type="text/javascript"></script>
+<script src="js/map.js" charset="UTF-8" type="text/javascript"></script>
+<script src="js/util.js" charset="UTF-8" type="text/javascript"></script>
+<script src="js/marker.js" charset="UTF-8" type="text/javascript"></script>
+<script src="js/onion.js" charset="UTF-8" type="text/javascript"></script>
+<script src="js/ViewportInfoService.GetViewportInfo" charset="UTF-8" type="text/javascript"></script>
+<script src="js/stats.js" charset="UTF-8" type="text/javascript"></script>
+<script src="js/controls.js" charset="UTF-8" type="text/javascript"></script>
 <script src="Beatrix%20::%20Homepage_files/vt_002" charset="UTF-8" type="text/javascript"></script>
 <script src="Beatrix%20::%20Homepage_files/vt" charset="UTF-8" type="text/javascript"></script>
 <script src="Beatrix%20::%20Homepage_files/AuthenticationService.Authenticate" charset="UTF-8" type="text/javascript"></script>
@@ -51,98 +100,7 @@
     <div style="display: none;" class="preloader">
       <img style="display: none;" src="Beatrix%20::%20Homepage_files/preloader.gif" alt="Loading..." class="preloader__img">
     </div>
-
-
-    <!-- STATIC TOPBAR
-    ============================== -->
-    <div class="topbar hidden-xs hidden-sm">
-      <div class="container">
-        <!-- Social links -->
-        <ul class="topbar-nav topbar-nav_left">
-          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-          <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-          <li><a href="#"><i class="fa fa-vk"></i></a></li>
-          <li><a href="#"><i class="fa fa-stumbleupon"></i></a></li>
-        </ul>
-        <ul class="topbar-nav topbar-nav_right">
-          <li>
-            <!-- Search form -->
-            <form class="form-inline topbar__search" role="form">
-              <label class="sr-only" for="nav-search">Search</label>
-              <input class="form-control" id="nav-search" placeholder="Search here..." type="search">
-              <button type="submit"><i class="fa fa-search"></i></button>
-            </form>
-          </li>
-          <!-- Account links -->
-          <li><a href="http://simpleqode.com/preview/beatrix/1.0.1/blue-grey/sign-in.html">Sign In</a></li>
-          <li><a href="http://simpleqode.com/preview/beatrix/1.0.1/blue-grey/sing-up.html">Sign Up</a></li>
-          <li><a href="http://simpleqode.com/preview/beatrix/1.0.1/blue-grey/shopping-cart.html">My Cart (0)</a></li>
-        </ul>
-      </div> <!-- / .container -->
-    </div> <!-- / .topbar -->
-    <div class="navbar__hr hidden-xs hidden-sm"></div>
-
-
-    <!-- STATIC NAVBAR
-    ============================== -->
-    <div class="navbar navbar-default navbar-static-top" role="navigation">
-      <div class="container">
-        <div class="navbar-header">
-          <!-- Toggle button -->
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <!-- Brand name -->
-          <a class="navbar-brand" href="http://simpleqode.com/preview/beatrix/1.0.1/blue-grey/index.html">Celtic Chocolates</a>
-        </div>
-        <div class="collapse navbar-collapse">
-          <!-- Navbar links -->
-          <ul class="nav navbar-nav navbar-right">
-
-            <!-- Home -->
-            <li class="dropdown">
-              <a href="../" class="dropdown-toggle">
-                Home
-              </a>
-            </li>
-
-            <!-- Blog -->
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                Blog <span class="fa fa-angle-down"></span>
-              </a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="http://simpleqode.com/preview/beatrix/1.0.1/blue-grey/blog.html">Blog</a></li>
-                <li><a href="http://simpleqode.com/preview/beatrix/1.0.1/blue-grey/blog-post.html">Blog Post</a></li>
-              </ul>
-            </li>
-
-            <!-- Shop -->
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                Shop <span class="fa fa-angle-down"></span>
-              </a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="http://simpleqode.com/preview/beatrix/1.0.1/blue-grey/shop.html">Shop</a></li>
-                <li><a href="http://simpleqode.com/preview/beatrix/1.0.1/blue-grey/shopping-cart.html">Shopping Cart</a></li>
-              </ul>
-            </li>
-          </ul>
-          <!-- Search form (for collapsed menu only) -->
-          <form class="navbar-form navbar-left visible-xs visible-sm" role="search">
-            <div class="form-group">
-              <label class="sr-only" for="nav-search-xs">Search</label>
-              <input class="form-control" id="nav-search-xs" placeholder="Search here..." type="search">
-            </div>
-          </form>
-        </div> <!-- / .navbar-collapse -->
-      </div> <!-- / .container -->
-    </div> <!-- / .navbar -->
-
+    <?php require_once "includes/header.php";?>
 
     <!-- HERO BLOCK
     ============================== -->
@@ -193,10 +151,10 @@
         <div class="row">
           <div class="col-xs-12">
             <h1 class="section__title">
-              Our Core Features
+              What we're about
             </h1>
             <p class="section__intro">
-              Beatrix is a super flexible HTML5 template that would perfectly fit a project of any size and complexity
+              Here in Celtic Chocolates, we're all about bringing you the finest quality dairy and gluten free chocolate.
             </p>
             <div class="section__hr section__hr_center"></div>
           </div>
@@ -212,11 +170,11 @@
               </div>
               <!-- Title -->
               <h2 class="features__title">
-                Truly Responsive
+                Dairy & Gluten Free
               </h2>
               <!-- Intro -->
               <p class="features__intro">
-                Looks equally great on your laptop, tablet, and phone. Try to resize your window to see what we mean.
+                We use literally no dairy or gluten in our products!
               </p>
             </div>
           </div>
@@ -990,42 +948,6 @@ lobortis eu.
                   <textarea name="message" class="form-control" rows="3" id="message" placeholder="Message"></textarea>
                   <span class="help-block"></span>
                 </div>
-                <!-- reCAPTCHA -->
-                <div class="form-group" id="form-captcha">
-                  <!-- Start reCAPTCHA -->
-                  <div class=" recaptcha_nothad_incorrect_sol recaptcha_isnot_showing_audio" id="recaptcha_widget" style="">
-                    <div class="row">
-                      <div class="col-xs-12 col-md-10">
-                        <p>
-                          <span class="recaptcha_only_if_image">Can't read the words below?</span><span class="recaptcha_only_if_audio">Can't hear the sound?</span> <a href="javascript:Recaptcha.reload()">Get another CAPTCHA</a> or <span class="recaptcha_only_if_image"><a href="javascript:Recaptcha.switch_type('audio')">try an audio CAPTCHA</a></span><span class="recaptcha_only_if_audio"><a href="javascript:Recaptcha.switch_type('image')">try an image CAPTCHA</a></span>.
-                        </p>
-                        <!-- reCAPTCHA image -->
-                        <div style="width: 300px; height: 57px;" id="recaptcha_image"><img id="recaptcha_challenge_image" alt="reCAPTCHA challenge image" src="Beatrix%20::%20Homepage_files/image.jpeg" height="57" width="300"></div>
-                        <div class="recaptcha_only_if_image">
-                          Enter the words above:
-                        </div>
-                        <div class="recaptcha_only_if_audio">
-                          Enter the numbers you hear:
-                        </div>
-                        <!-- reCAPTCHA input -->
-                        <span style="display: none;" id="recaptcha_challenge_field_holder"><input name="recaptcha_challenge_field" id="recaptcha_challenge_field" value="03AHJ_Vuv0EeF8K5sTnHNo0CbDdwNkBTfvBlfsJXF-PpLePPPQXCZcXLDgM5ecTkpv0mz9TtaqbinCDu3alxul7iVAv1eRwcaA4HV2ohaiv3WNDmSc34CwDhTk9Y6cKXYqfGzlsrhbRDzroDhlTvrANCaC_1-N2qlDppMsCtUucJtlOI0yF0V9-icdY2syw3wvjF2LXosVhRx-EIYtGYghRejMq1by-Yo9Uf7X4GLSy5kQHYLgGpvnLfOYZIAEtTBnnQgSLaMIqhQiFsfKNUY3cLTglPpNLq2TVw" type="hidden"></span><input autocomplete="off" class="form-control input-sm" id="recaptcha_response_field" name="recaptcha_response_field" type="text">
-                      </div>
-                    </div>
-                   </div> <!-- / #recaptcha_widget -->
-                   <script type="text/javascript" src="Beatrix%20::%20Homepage_files/challenge"> // Insert your public key here
-                   </script><script type="text/javascript" src="Beatrix%20::%20Homepage_files/recaptcha.js"></script>
-                   <noscript>
-                     <iframe src="http://www.google.com/recaptcha/api/noscript?k=6LcU9QETAAAAABOKm4BoKrhzTvdIsrzXTsl4sgpY"
-                          height="300" width="500" frameborder="0"></iframe><br>
-                     <textarea name="recaptcha_challenge_field" rows="3" cols="40">
-                     </textarea>
-                     <input type="hidden" name="recaptcha_response_field"
-                          value="manual_challenge">
-                   </noscript>
-                   <!-- End reCAPTCHA -->
-                  <span class="help-block"></span>
-                </div>
-                <!-- / reCAPTCHA -->
                 <button type="submit" class="btn btn-primary">Contact Us</button>
               </form>
             </div> <!-- / .contact__form -->
@@ -1033,172 +955,30 @@ lobortis eu.
         </div>
       </div> <!-- / .container -->
     </div> <!-- / .section -->
-
-
-    <!-- FOOTER
-    ============================== -->
-    <footer>
-
-      <!-- Footer Top -->
-      <div class="footer_top hidden-xs">
-        <div class="container">
-          <div class="row">
-
-            <!-- Contact Us -->
-            <div class="col-xs-12 col-sm-3">
-              <div class="footer__item">
-                <div class="footer__title">Contact Us</div>
-                <div class="footer__content">
-                  <p>
-                    Do not hesitate to contact us if you have any questions or feature requests:
-                  </p><p>
-                    Lorem ipsum dolor sit amet,<br>
-                    Consectetur adipiscing elit
-                  </p><p>
-                    Phone: +0 000 000 00 00<br>
-                    Fax: +0 000 000 00 00
-                  </p><p>
-                    Email: <a href="#">support@example.com</a>
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <!-- Recent Tweets -->
-            <div class="col-xs-12 col-sm-3">
-              <div class="footer__item">
-                <div class="footer__title">Recent Tweets</div>
-                <div class="footer__content">
-                  <div class="footer__tweet">
-                    <div class="footer-tweet__icon">
-                      <i class="fa fa-twitter"></i>
-                    </div>
-                    <div class="footer-tweet__content">
-                      <p>
-                        <a href="#">@celticchocolates</a> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nisi lorem, elementum sed feugiat.
-                      </p>
-                      <a href="#">1 hour ago</a>
-                    </div>
-                  </div>
-                  <div class="footer__tweet">
-                    <div class="footer-tweet__icon">
-                      <i class="fa fa-twitter"></i>
-                    </div>
-                    <div class="footer-tweet__content">
-                      <p>
-                        <a href="#">@wrapbootstrap</a> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nisi lorem, elementum sed feugiat.
-                      </p>
-                      <a href="#">1 day ago</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <!-- Recent Posts -->
-            <div class="col-xs-12 col-sm-3">
-              <div class="footer__item">
-                <div class="footer__title">Recent Posts</div>
-                <div class="footer__content">
-                  <div class="footer__post">
-                    <div class="footer-post__img">
-                      <img src="Beatrix%20::%20Homepage_files/general_1.jpg" alt="...">
-                    </div>
-                    <div class="footer-post__content">
-                      <p><a href="#">Lorem ipsum dolor sit amet</a></p>
-                      <time datetime="2015-01-01">2015/01/01</time>
-                    </div>
-                  </div>
-                  <div class="footer__post">
-                    <div class="footer-post__img">
-                      <img src="Beatrix%20::%20Homepage_files/general_2.jpg" alt="...">
-                    </div>
-                    <div class="footer-post__content">
-                      <p><a href="#">Lorem ipsum dolor sit amet</a></p>
-                      <time datetime="2015-01-01">2015/01/01</time>
-                    </div>
-                  </div>
-                  <div class="footer__post">
-                    <div class="footer-post__img">
-                      <img src="Beatrix%20::%20Homepage_files/general_3.jpg" alt="...">
-                    </div>
-                    <div class="footer-post__content">
-                      <p><a href="#">Lorem ipsum dolor sit amet</a></p>
-                      <time datetime="2015-01-01">2015/01/01</time>
-                    </div>
-                  </div>
-                </div>
-              </div>            
-            </div>
-
-            <!-- Quick Links -->
-            <div class="col-xs-12 col-sm-3">
-              <div class="footer__item">
-                <div class="footer__title">Quick Links</div>
-                <div class="footer__content">
-                  <ul class="footer__links">
-                    <li><a href="#">Donec commodo turpis eget orci</a></li>
-                    <li><a href="#">Lorem ipsum dolor sit amet</a></li>
-                    <li><a href="#">Aenean rhoncus vel nisi sed</a></li>
-                    <li><a href="#">Aenean accumsan volutpat libero</a></li>
-                    <li><a href="#">Vestibulum lacinia erat massa</a></li>
-                  </ul>
-                </div>
-              </div>            
-            </div>
-
-          </div> <!-- / .row -->
-        </div> <!-- / .container -->
-      </div> <!-- / .footer_top -->
-      <div class="footer__hr hidden-xs"></div>
-
-      <!-- Footer Bottom -->
-      <div class="footer_bottom">
-        <div class="container">
-          <div class="row">
-            <div class="col-xs-12 col-sm-6">
-              <div class="footer__copyright">
-                Copyright <?php echo date("Y");?> <a href="http://simpleqode.com/">Celtic Chocolates</a>. All Rights Reserved.
-              </div>
-            </div>
-            <div class="col-xs-12 col-sm-6">
-              <ul class="footer__social">
-                <li class="twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li class="facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li class="linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                <li class="google-plus"><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                <li class="pinterest"><a href="#"><i class="fa fa-pinterest"></i></a></li>
-              </ul>
-            </div>
-          </div> <!-- / .row -->
-        </div> <!-- / .container -->
-      </div> <!-- / .footer_bottom -->
-    </footer>
-
-
+<?php require_once "/includes/header.php";?>
     <!-- Javascript
     ============================== -->
 
     <!-- JS Global -->
-    <script src="Beatrix%20::%20Homepage_files/jquery_002.js"></script>
-    <script src="Beatrix%20::%20Homepage_files/js"></script>
-    <script src="Beatrix%20::%20Homepage_files/bootstrap.js"></script>
+    <script src="js/jquery_002.js"></script>
+    <script src="js/js"></script>
+    <script src="js/bootstrap.js"></script>
 
     <!-- JS Plugins -->
-    <script src="Beatrix%20::%20Homepage_files/backstretch.js"></script>
-    <script src="Beatrix%20::%20Homepage_files/counter.js"></script>
-    <script src="Beatrix%20::%20Homepage_files/jquery.js"></script>
-    <script src="Beatrix%20::%20Homepage_files/inview.js"></script>
-    <script src="Beatrix%20::%20Homepage_files/scrolltopcontrol.js"></script>
-    <script src="Beatrix%20::%20Homepage_files/wow.js"></script>
-    <script src="Beatrix%20::%20Homepage_files/contact.js"></script>
+    <script src="js/backstretch.js"></script>
+    <script src="js/counter.js"></script>
+    <script src="js/jquery.js"></script>
+    <script src="js/inview.js"></script>
+    <script src="js/scrolltopcontrol.js"></script>
+    <script src="js/wow.js"></script>
+    <script src="js/contact.js"></script>
 
     <!-- JS Custom -->
-    <script src="Beatrix%20::%20Homepage_files/custom.js"></script>
-    <script src="Beatrix%20::%20Homepage_files/custom_hero.js"></script>
-    <script src="Beatrix%20::%20Homepage_files/custom_skills.js"></script>
-    <script src="Beatrix%20::%20Homepage_files/custom_countto.js"></script>
-    <script src="Beatrix%20::%20Homepage_files/custom_google-map.js"></script>
+    <script src="js/custom.js"></script>
+    <script src="js/custom_hero.js"></script>
+    <script src="js/custom_skills.js"></script>
+    <script src="js/custom_countto.js"></script>
+    <script src="js/custom_google-map.js"></script>
 
     
   
